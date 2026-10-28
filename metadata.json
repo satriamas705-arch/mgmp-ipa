@@ -1,0 +1,6 @@
+{
+  "name": "MGMP IPA Kabupaten Banyumas - Portal Resmi Guru IPA",
+  "description": "Portal kolaborasi, pendaftaran anggota, jadwal kegiatan, forum diskusi guru, manajemen perangkat ajar Kurikulum Merdeka, dashboard progres, dan notifikasi email MGMP IPA Banyumas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
